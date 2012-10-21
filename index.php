@@ -1,2 +1,2 @@
 <?php
-	echo 'ahoja';
+	easdsadsacho 'ahoja';
