@@ -1,2 +1,2 @@
 <?php
-	echo 'Test git file';
+	echo 'ahoj';
